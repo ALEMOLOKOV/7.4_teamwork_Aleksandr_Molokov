@@ -35,7 +35,7 @@
 
 ## ОТВЕТ
 
-Ссылка server.yaml - [server.yaml]
+Ссылка server.yaml - https://github.com/ALEMOLOKOV/7.4_teamwork_Aleksandr_Molokov/blob/c99ef6df111b2a009a4d9aba40792389a08fb7e9/server.yaml
 
 Ссылка atlantis.yaml - https://github.com/ALEMOLOKOV/7.4_teamwork_Aleksandr_Molokov/blob/e81f456166ef1ab33c73114a8b8c776c816583cb/atlantis.yaml
 
