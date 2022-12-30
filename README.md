@@ -37,7 +37,7 @@
 
 Ссылка server.yaml - [server.yaml]
 
-Ссылка atlantis.yaml - [atlantis.yaml]
+Ссылка atlantis.yaml - https://github.com/ALEMOLOKOV/7.4_teamwork_Aleksandr_Molokov/blob/e81f456166ef1ab33c73114a8b8c776c816583cb/atlantis.yaml
 
 
 ## Задача 3. Знакомство с каталогом модулей. 
