@@ -35,9 +35,9 @@
 
 ## ОТВЕТ
 
-Ссылка server.yaml - 
+Ссылка server.yaml - [server.yaml]
 
-Ссылка atlantis.yaml - 
+Ссылка atlantis.yaml - [atlantis.yaml]
 
 
 ## Задача 3. Знакомство с каталогом модулей. 
