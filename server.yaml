@@ -1,0 +1,13 @@
+repos:
+- id: https://github.com/alemolokov/7.4_teamwork      //идентификация для репозитория
+  apply_requirements: [approved, mergeable]
+  allowed_overrides: [apply_requirements, workflow, delete_source_branch_on_merge]  //разрешения на выбор для репозитория на собственнве рабочие процессы
+  allow_custom_workflows: true   // разрешение репозиторию на определение собственных рабочих процессов
+  delete_source_branch_on_merge: true  // удаление исходной ветки после мержа
+workflows:
+  default:
+    plan:
+      steps:
+      - init
+      - plan:
+          extra_args: ["-lock=false"]   // отключение lock слстояния при планировании

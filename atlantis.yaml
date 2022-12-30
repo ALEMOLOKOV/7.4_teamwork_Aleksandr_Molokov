@@ -1,0 +1,11 @@
+version: 3
+projects:
+- name: my-progect
+- dir: project1
+  workspace: stage
+- dir: project1
+  workspace: prod
+  autoplan:
+    when_modified: ["*.tf"]
+    enabled: true
+
