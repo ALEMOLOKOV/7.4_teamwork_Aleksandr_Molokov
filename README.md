@@ -54,3 +54,5 @@
 
 ##ОТВЕТ
 
+ссылка на файл - https://github.com/ALEMOLOKOV/7.4_teamwork_Aleksandr_Molokov/blob/ecb1716da12d5fd410a8c32d72a930c9fd84bd2e/instance.tf
+
